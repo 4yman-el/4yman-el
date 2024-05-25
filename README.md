@@ -1,6 +1,14 @@
 # 4ymen-el
 
-<div style="background:url('img/wallpaper.jpg')">
+<div>
+
+	<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+	    <foreignObject width="100%" height="100%">
+	        <div xmlns="http://www.w3.org/1999/xhtml">
+						<img style="position:absolute" src="img/wallpaper.jpg">
+			</div>
+		</foreignObject>
+	</svg>
 
 	<p align="left">
 		<img src="https://komarev.com/ghpvc/?username=4yman-el&label=Profile%20views&color=0e75b6&style=flat" alt="4yman-el" />
